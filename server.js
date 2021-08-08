@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3001;
 
 const fs = require('fs')
 const path = require('path');
-const mainDir = path.join(__dirname, "/public");
+const mainDir = path.join(__dirname, "/Develop/public");
 
 
 // const routesApi = require('./Develop/routes/routesApi.js')
